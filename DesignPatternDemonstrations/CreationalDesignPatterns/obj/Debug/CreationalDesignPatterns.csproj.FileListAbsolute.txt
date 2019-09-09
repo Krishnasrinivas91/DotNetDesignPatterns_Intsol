@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\DesignPatternDemonstrations\CreationalDesignPatterns\bin\Debug\CreationalDesignPatterns.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\DesignPatternDemonstrations\CreationalDesignPatterns\bin\Debug\CreationalDesignPatterns.exe
+c:\users\administrator\documents\visual studio 2015\Projects\DesignPatternDemonstrations\CreationalDesignPatterns\bin\Debug\CreationalDesignPatterns.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\DesignPatternDemonstrations\CreationalDesignPatterns\obj\Debug\CreationalDesignPatterns.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\DesignPatternDemonstrations\CreationalDesignPatterns\obj\Debug\CreationalDesignPatterns.exe
+c:\users\administrator\documents\visual studio 2015\Projects\DesignPatternDemonstrations\CreationalDesignPatterns\obj\Debug\CreationalDesignPatterns.pdb
