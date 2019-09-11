@@ -1,0 +1,6 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\DesignPatternDemonstrations\BehavioralDesignPatterns\bin\Debug\BehavioralDesignPatterns.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\DesignPatternDemonstrations\BehavioralDesignPatterns\bin\Debug\BehavioralDesignPatterns.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\DesignPatternDemonstrations\BehavioralDesignPatterns\bin\Debug\BehavioralDesignPatterns.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\DesignPatternDemonstrations\BehavioralDesignPatterns\obj\Debug\BehavioralDesignPatterns.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\DesignPatternDemonstrations\BehavioralDesignPatterns\obj\Debug\BehavioralDesignPatterns.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\DesignPatternDemonstrations\BehavioralDesignPatterns\obj\Debug\BehavioralDesignPatterns.pdb
